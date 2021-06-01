@@ -1,0 +1,19 @@
+{
+    "a": 27,
+    "bd": true,
+    "covid_status": "positive_moderate",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "ftg": true,
+    "g": "male",
+    "l_c": "India",
+    "l_l": "Visakhapatnam",
+    "l_s": "Andhra Pradesh",
+    "loss_of_smell": true,
+    "mp": true,
+    "rU": "n",
+    "test_status": "p",
+    "um": "n"
+}

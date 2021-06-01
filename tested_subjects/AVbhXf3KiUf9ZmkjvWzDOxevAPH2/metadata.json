@@ -1,0 +1,19 @@
+{
+    "a": 22,
+    "cold": true,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "ftg": true,
+    "g": "female",
+    "l_c": "India",
+    "l_l": "Bangalore Urban",
+    "l_s": "Karnataka",
+    "loss_of_smell": true,
+    "mp": true,
+    "rU": "n",
+    "test_status": "p",
+    "um": "n"
+}

@@ -1,0 +1,16 @@
+{
+    "a": 54,
+    "cough": true,
+    "covid_status": "recovered_full",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "g": "female",
+    "l_c": "India",
+    "l_l": "Bangalore",
+    "l_s": "Karnataka",
+    "rU": "n",
+    "test_status": "p",
+    "um": "n"
+}

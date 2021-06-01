@@ -1,0 +1,16 @@
+{
+    "a": 23,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "g": "male",
+    "l_c": "India",
+    "l_l": "Bengaluru",
+    "l_s": "Karnataka",
+    "rU": "n",
+    "st": true,
+    "test_status": "p",
+    "um": "n"
+}

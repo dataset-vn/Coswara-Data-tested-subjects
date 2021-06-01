@@ -1,0 +1,20 @@
+{
+    "a": 77,
+    "asthma": true,
+    "bd": true,
+    "cld": true,
+    "covid_status": "positive_asymp",
+    "dT": "web",
+    "diabetes": true,
+    "diarrhoea": true,
+    "ep": "y",
+    "fV": 2,
+    "g": "other",
+    "ihd": true,
+    "l_c": "France",
+    "l_l": "uganda",
+    "l_s": "Allier",
+    "rU": "n",
+    "test_status": "p",
+    "um": "n"
+}

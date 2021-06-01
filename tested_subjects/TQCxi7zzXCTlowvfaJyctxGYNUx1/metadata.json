@@ -1,0 +1,16 @@
+{
+    "a": 26,
+    "cold": true,
+    "cough": true,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "g": "male",
+    "l_c": "India",
+    "l_l": "West Godavari",
+    "l_s": "Andhra Pradesh",
+    "rU": "n",
+    "test_status": "p",
+    "um": "n"
+}

@@ -1,0 +1,21 @@
+{
+    "a": 43,
+    "cold": true,
+    "cough": true,
+    "covid_status": "resp_illness_not_identified",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "ftg": true,
+    "g": "female",
+    "l_c": "India",
+    "l_l": "HSR layout, bengaluru",
+    "l_s": "Karnataka",
+    "loss_of_smell": true,
+    "mp": true,
+    "rU": "n",
+    "st": true,
+    "test_status": "n",
+    "um": "n"
+}

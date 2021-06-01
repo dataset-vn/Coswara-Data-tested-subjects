@@ -1,0 +1,20 @@
+{
+    "a": 65,
+    "bd": true,
+    "cough": true,
+    "covid_status": "positive_moderate",
+    "dT": "web",
+    "diabetes": true,
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "ftg": true,
+    "g": "male",
+    "ht": true,
+    "l_c": "India",
+    "l_l": "Mangalore",
+    "l_s": "Karnataka",
+    "rU": "y",
+    "test_status": "p",
+    "um": "y"
+}

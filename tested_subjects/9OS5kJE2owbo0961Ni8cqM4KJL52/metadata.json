@@ -1,0 +1,17 @@
+{
+    "a": 34,
+    "cold": true,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "ftg": true,
+    "g": "male",
+    "l_c": "India",
+    "l_s": "Karnataka",
+    "loss_of_smell": true,
+    "rU": "n",
+    "smoker": true,
+    "test_status": "p",
+    "um": "n"
+}

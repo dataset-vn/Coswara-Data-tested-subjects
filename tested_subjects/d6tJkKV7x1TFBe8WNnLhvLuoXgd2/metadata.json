@@ -1,0 +1,18 @@
+{
+    "a": 20,
+    "cold": true,
+    "cough": true,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "fever": true,
+    "g": "female",
+    "l_c": "India",
+    "l_s": "Karnataka",
+    "loss_of_smell": true,
+    "rU": "n",
+    "st": true,
+    "test_status": "p",
+    "um": "n"
+}

@@ -1,0 +1,16 @@
+{
+    "a": 46,
+    "asthma": true,
+    "cough": true,
+    "covid_status": "resp_illness_not_identified",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "g": "female",
+    "l_c": "France",
+    "l_l": "Eymoutiers",
+    "l_s": "Haute-Vienne",
+    "rU": "n",
+    "test_status": "n",
+    "um": "n"
+}

@@ -1,0 +1,17 @@
+{
+    "a": 30,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "ftg": true,
+    "g": "male",
+    "ht": true,
+    "l_c": "India",
+    "l_l": "kolkata",
+    "l_s": "West Bengal",
+    "rU": "n",
+    "smoker": true,
+    "test_status": "p",
+    "um": "y"
+}

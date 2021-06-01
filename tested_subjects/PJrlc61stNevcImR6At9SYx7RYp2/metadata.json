@@ -1,0 +1,17 @@
+{
+    "a": 30,
+    "cold": true,
+    "covid_status": "recovered_full",
+    "dT": "web",
+    "ep": "n",
+    "fV": 2,
+    "fever": true,
+    "ftg": true,
+    "g": "male",
+    "l_c": "Brazil",
+    "l_l": "Belo Horizonte",
+    "l_s": "Minas Gerais",
+    "rU": "n",
+    "test_status": "p",
+    "um": "n"
+}

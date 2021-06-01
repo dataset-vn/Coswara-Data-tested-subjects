@@ -1,0 +1,19 @@
+{
+    "a": 24,
+    "cold": true,
+    "cough": true,
+    "covid_status": "positive_mild",
+    "dT": "web",
+    "ep": "y",
+    "fV": 2,
+    "ftg": true,
+    "g": "male",
+    "l_c": "India",
+    "l_l": "Kasargod",
+    "l_s": "Kerala",
+    "loss_of_smell": true,
+    "mp": true,
+    "rU": "n",
+    "test_status": "p",
+    "um": "y"
+}
