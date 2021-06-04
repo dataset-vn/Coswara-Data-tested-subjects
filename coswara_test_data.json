@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0B1rE91KabdId1lUmWJB7NLg8OP2",
+        "bd": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/breathing-deep.wav",
+        "bs": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/breathing-shallow.wav",
+        "ch": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/cough-heavy.wav",
+        "cs": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/cough-shallow.wav",
+        "cf": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/counting-fast.wav",
+        "cn": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/counting-normal.wav",
+        "va": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/vowel-a.wav",
+        "ve": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/vowel-e.wav",
+        "vo": "https://dataset.vn/audios/test_data/0B1rE91KabdId1lUmWJB7NLg8OP2/vowel-o.wav"
+    },
+    {
+        "id": "0drfnqVwccT6UmgVLQEuyVglDC23",
+        "bd": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/breathing-deep.wav",
+        "bs": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/breathing-shallow.wav",
+        "ch": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/cough-heavy.wav",
+        "cs": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/cough-shallow.wav",
+        "cf": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/counting-fast.wav",
+        "cn": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/counting-normal.wav",
+        "va": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/vowel-a.wav",
+        "ve": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/vowel-e.wav",
+        "vo": "https://dataset.vn/audios/test_data/0drfnqVwccT6UmgVLQEuyVglDC23/vowel-o.wav"
+    },
+    {
+        "id": "0mkAUAbpROMIFjKpdFxlUnYTV262",
+        "bd": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/breathing-deep.wav",
+        "bs": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/breathing-shallow.wav",
+        "ch": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/cough-heavy.wav",
+        "cs": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/cough-shallow.wav",
+        "cf": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/counting-fast.wav",
+        "cn": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/counting-normal.wav",
+        "va": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/vowel-a.wav",
+        "ve": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/vowel-e.wav",
+        "vo": "https://dataset.vn/audios/test_data/0mkAUAbpROMIFjKpdFxlUnYTV262/vowel-o.wav"
+    }
+]
